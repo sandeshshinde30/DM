@@ -1,0 +1,12 @@
+Dimension Combination,Total Amount
+Beauty,355.0
+Male | Beauty,325.0
+Clothing,3620.0
+Female | Clothing,1350.0
+Male | Clothing,2270.0
+Female | Beauty,30.0
+Electronics,4280.0
+Male,4825.0
+Female,3430.0
+Male | Electronics,2230.0
+Female | Electronics,2050.0

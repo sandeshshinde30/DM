@@ -1,0 +1,20 @@
+Transaction ID,Date,Customer ID,Gender,Age,Product Category,Quantity,Price per Unit,Total Amount
+1,2023-11-24,CUST001,Male,34,Beauty,3,50,150
+2,2023-02-27,CUST002,Female,26,Clothing,2,500,1000
+3,2023-01-13,CUST003,Male,50,Electronics,1,30,30
+4,2023-05-21,CUST004,Male,37,Clothing,1,500,500
+5,2023-05-06,CUST005,Male,30,Beauty,2,50,100
+6,2023-04-25,CUST006,Female,45,Beauty,1,30,30
+7,2023-03-13,CUST007,Male,46,Clothing,2,25,50
+8,2023-02-22,CUST008,Male,30,Electronics,4,25,100
+9,2023-12-13,CUST009,Male,63,Electronics,2,300,600
+10,2023-10-07,CUST010,Female,52,Clothing,4,50,200
+11,2023-02-14,CUST011,Male,23,Clothing,2,50,100
+12,2023-10-30,CUST012,Male,35,Beauty,3,25,75
+13,2023-08-05,CUST013,Male,22,Electronics,3,500,1500
+14,2023-01-17,CUST014,Male,64,Clothing,4,30,120
+15,2023-01-16,CUST015,Female,42,Electronics,4,500,2000
+16,2023-02-17,CUST016,Male,19,Clothing,3,500,1500
+17,2023-04-22,CUST017,Female,27,Clothing,4,25,100
+18,2023-04-30,CUST018,Female,47,Electronics,2,25,50
+19,2023-09-16,CUST019,Female,62,Clothing,2,25,50
